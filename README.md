@@ -13,8 +13,8 @@
 
 ### How to run this project
   1. Open Soap UI and Click on File > Import Project and select downloaded PET-soapui-project.xml file
-  2. Open the testuite "pet" > open testcase "Run TC" > open "Script"
+  2. Open the testuite "**pet**" > open testcase "**Run TC**" > open "**Script**" file
   3. Change the excel file path i.e., at line number #8 with the download excel file
   4. Change the Project path at line number #59
   5. Save the project
-  6. Run the TestCase "Run TC"
+  6. Run the TestCase "**Run TC**"
