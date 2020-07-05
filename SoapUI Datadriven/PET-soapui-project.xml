@@ -108,7 +108,7 @@ for(int i=0;i&lt;size;i++){
 }
 
 //Getting project
-WsdlProject project = new WsdlProject("E:\\Soap\\PET-soapui-project.xml") // e.g. "C:\\Projects\\Test-soapui-project.xml"
+WsdlProject project = new WsdlProject("E:\\Soap\\PET-soapui-project.xml")
 //Get Suite
 def testSuite = project.getTestSuiteByName("pet")
 //Running user TC
