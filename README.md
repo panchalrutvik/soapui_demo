@@ -9,7 +9,7 @@
 ### Edit the excel file as per your need 
   1. Do not make any changes in the TC column.
   2. Do not specify any value in the cell which are kept blank.
-  3. Add the data as per the pet pay example given in api of "http://petstore.swagger.io"
+  3. Add the data as per the pet payload example given in api of "http://petstore.swagger.io"
 
 ### How to run this project
   1. Open Soap UI and Click on File > Import Project and select downloaded PET-soapui-project.xml file
